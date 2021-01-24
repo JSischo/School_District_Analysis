@@ -7,7 +7,7 @@ At the request of the school board, a re-analysis of standardized testing scores
 
 ![Original School District Analysis.](/Resources/Original_District_Summary.png)
 
-![Revised School District Analysis.](/Resources/Revised_district_Summary.png)
+![Revised School District Analysis.](/Resources/Revised_district_summary.png)
 - How is the school summary affected?
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
