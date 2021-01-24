@@ -11,12 +11,15 @@ Original School District Analysis
 Revised School District Analysis
 - How is the school summary affected?
 ![Original Thomas High School Summary](/Resources/Original_ths.png)
+Original Thomas High School Summary
 ![Revised Thomas High School Summary](/Resources/Revised_ths.png)
-
+Revised Thomas High School Summary
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ![Original Top Five Schools](/Resources/Original_top_five.png)
+Original Top Five Performing Schools
 ![Revised Top Five Schools.](/Resources/Revised_top_five.png)
+Original Top Five Performing Schools
 - How does replacing the ninth-grade scores affect the following:
 
   - Math and reading scores by grade
