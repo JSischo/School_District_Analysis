@@ -51,7 +51,7 @@ Following is a comparison of the original school district analysis to the revise
     ![Revised Thomas High School Reading Scores.](/Resources/Revised_reading_ths.png)
     >Revised Thomas High School Reading Scores
   
-      -The only changes in the Math and Reading scores in THS are obviously that the 9th grade scores have been removed. All other grades remain unchanged.
+      - The only changes in the Math and Reading scores in THS are obviously that the 9th grade scores have been removed. All other grades remain unchanged.
       
   - **Scores by school spending**
   
@@ -61,7 +61,7 @@ Following is a comparison of the original school district analysis to the revise
     ![Revised Scores by School Spending](/Resources/Revised_school_spending.png)
     >Revised Scores by School Spending
   
-    -Scores by school spending are unchanged between the original and the revised analyses.
+    - Scores by school spending are unchanged between the original and the revised analyses.
     
   - **Scores by school size**
   
@@ -71,7 +71,7 @@ Following is a comparison of the original school district analysis to the revise
     ![Revised Scores by School Size.](/Resources/Revised_school_size.png)
     >Revised Scores by School Size
     
-    -Scores by school size are unchanged between the original and the revised analyses.
+    - Scores by school size are unchanged between the original and the revised analyses.
   
   - **Scores by school type**
   
@@ -81,5 +81,6 @@ Following is a comparison of the original school district analysis to the revise
     ![Revised Scores by School Type.](/Resources/Revised_school_type.png)
     >Revised Scores by School Type
       
-      -Scores by school type are also unchanged between the original and the revised analyses.
+     - Scores by school type are also unchanged between the original and the revised analyses.
+
 ## Summary
