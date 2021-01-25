@@ -86,4 +86,4 @@ Following is a comparison of the original school district analysis to the revise
 ## Summary
 
 ![Original THS Summary](/Resources/Original_ths.png)
-![THS afte NaNs inserted](/Resources/ths_withnans.png)
+![THS after NaNs inserted](/Resources/ths_withnans.png)
