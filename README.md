@@ -85,5 +85,16 @@ Following is a comparison of the original school district analysis to the revise
 
 ## Summary
 
+Below are screen shots showing how the THS numbers changed during the anaylsis process when the NaNs were added to the the 9th grade reading and math scores.
+
 ![Original THS Summary](/Resources/Original_ths.png)
+>Original Thomas High School Scores
+
 ![THS after NaNs inserted](/Resources/ths_withnans.png)
+>Thomas High School Scores when the analysis was run with the NaNs in the DataFrames.
+
+We see that a number of the metrics changed:
+1. Significant drop by about 26% in the percent of students with passing math scores.
+2. Significant drop by about 27% in the percent of students with passing reading scores.
+3. These numbers both impacted the overall passing percentage with a decrease of about 25%.
+4. These numbers were then corrected in the script when the number of 9th grades at Thomas High School where removed from the THS school count, percentages where recalculated and then inserted into the school summary DataFrame.
