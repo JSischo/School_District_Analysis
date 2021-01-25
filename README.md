@@ -33,40 +33,40 @@ Following is a comparison of the original school district analysis to the revise
 
   - Math and reading scores by grade
   
-  ![Original Thomas High School Math Scores.](/Resources/Original_math_grade_ths.png)
-  >Original Thomas High School Math Scores
+    ![Original Thomas High School Math Scores.](/Resources/Original_math_grade_ths.png)
+    >Original Thomas High School Math Scores
   
-  ![Revised School District Analysis.](/Resources/Revised_math_grade_ths.png)
-  >Revised Thomas High School Math Scores
+    ![Revised School District Analysis.](/Resources/Revised_math_grade_ths.png)
+    >Revised Thomas High School Math Scores
   
-  ![Original Thomas High School Reading Scores.](/Resources/Original_reading_grade_ths.png)
-  >Original Thomas High School Reading Scores
+    ![Original Thomas High School Reading Scores.](/Resources/Original_reading_grade_ths.png)
+    >Original Thomas High School Reading Scores
   
-  ![Original Thomas High School Reading Scores.](/Resources/Revised_reading_grade_ths.png)
-  >Revised Thomas High School Reading Scores
+    ![Revised Thomas High School Reading Scores.](/Resources/Revised_reading_ths.png)
+    >Revised Thomas High School Reading Scores
   
   - Scores by school spending
   
-  ![Original Scores by School Spending](/Resources/Original_school_spending.png)
-  >Orginal Scores by School Spending 
+    ![Original Scores by School Spending](/Resources/Original_school_spending.png)
+    >Orginal Scores by School Spending 
   
-  ![Revised Scores by School Spending](/Resources/Revised_school_spending.png)
-  >Revised Scores by School Spending
+    ![Revised Scores by School Spending](/Resources/Revised_school_spending.png)
+    >Revised Scores by School Spending
   
   - Scores by school size
   
-  ![Original Scores by School Size.](/Resources/Original_school_size.png)
-  >Original Scores by School Size
+    ![Original Scores by School Size.](/Resources/Original_school_size.png)
+    >Original Scores by School Size
   
-  ![Revised Scores by School Size.](/Resources/Revised_school_size.png)
-  >Revised Scores by School Size
+    ![Revised Scores by School Size.](/Resources/Revised_school_size.png)
+    >Revised Scores by School Size
   
   - Scores by school type
   
-  ![Original Scores by School Type.](/Resources/Original_school_type.png)
-  >Original Scores by School Type
-  
-  ![Revised Scores by School Type.](/Resources/Revised_school_type.png)
-  >Revised Scores by School Type
+    ![Original Scores by School Type.](/Resources/Original_school_type.png)
+    >Original Scores by School Type
+
+    ![Revised Scores by School Type.](/Resources/Revised_school_type.png)
+    >Revised Scores by School Type
   
 ## Summary
