@@ -84,3 +84,6 @@ Following is a comparison of the original school district analysis to the revise
     - Scores by school type are also unchanged between the original and the revised analyses.
 
 ## Summary
+
+![Original THS Summary](/Resources/Original_ths.png)
+![THS afte NaNs inserted](/Resources/ths_withnans.png)
