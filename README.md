@@ -5,7 +5,7 @@ At the request of the school board, a re-analysis of standardized testing scores
 ## Results
 Following is a comparison of the original school district analysis to the revised analysis once the 9th grade scores from Thomas High School have been removed.
 
-- **How is the district summary affected?
+- **How is the district summary affected?**
 
   ![Original School District Analysis.](/Resources/Original_District_Summary.png)
   >Original School District Analysis
